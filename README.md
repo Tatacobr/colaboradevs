@@ -1,5 +1,5 @@
 ## Temas exploraveis para desenvolvimento de projetos
-
+```
 **Pokedex com consumo da API de Pokemons**
 **Analisador de Docs com a API do governo**
 **Joguinho bem basico no estilo Tatics/Fire Emblem**
@@ -8,3 +8,4 @@
 **Gerenciador financeiro**
 **Gerenciador de fichas Vampire**
 **Algum jogo de baralho em browser**
+```
